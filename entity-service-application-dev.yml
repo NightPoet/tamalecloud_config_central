@@ -4,7 +4,7 @@ server:
 ###服务名称(服务注册到eureka名称)  
 spring:
     application:
-        name: tamalecloud-entity-service
+        name: {$entity_service_name}
 ###注册到注册中心
     register-with-eureka: true
 
