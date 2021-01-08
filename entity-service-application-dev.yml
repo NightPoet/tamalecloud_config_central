@@ -1,6 +1,6 @@
 ###服务启动端口号
 server:
-  port: 8101
+  port: 8100
 ###服务名称(服务注册到eureka名称)  
 spring:
     application:
